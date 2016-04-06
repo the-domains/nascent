@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T21:16:08.287Z'
-dateModified: '2016-04-06T21:15:48.192Z'
+datePublished: '2016-04-06T21:16:25.980Z'
+dateModified: '2016-04-06T21:16:17.225Z'
 title: Nascent Comic and Concept Art
 author: []
 sourcePath: _posts/2016-04-06-nascent-comic-and-concept-art.md
