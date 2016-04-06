@@ -1,0 +1,28 @@
+name: Nascent
+favicon: null
+layout_spectrum: 0.5538676541764289
+typography_spectrum: 0.42301578680053353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9172187962103635
+  lightness: 0.3371292215306312
+  saturation: 0.6645181595813483
+  rhythmicContrast: 0.117985007353127
+purpose: []
